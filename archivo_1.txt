@@ -1,4 +1,4 @@
-conflicto 1 Aqui va el primero.
+conflicto 1 Aqui va el primero xx.
 
 y aplique un cambio.
 
